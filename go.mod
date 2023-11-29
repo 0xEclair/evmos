@@ -220,4 +220,6 @@ replace (
 	github.com/cosmos/cosmos-sdk => github.com/evmos/cosmos-sdk v0.46.7-ledger
 	// use cosmos flavored protobufs
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+	// use tendermint metrics
+	github.com/tendermint/tendermint v0.34.24 => github.com/0xEclair/tendermint v0.34.24-m
 )
